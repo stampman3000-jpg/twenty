@@ -1,0 +1,15 @@
+{
+  "name": "Twenty",
+  "manufacturer": "Stampman3000",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "TWNT",
+  "category": "Synth",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "file32": "VST/twenty-arm32.so",
+  "file64": "VST/twenty-arm64.so",
+  "description": "Ported to MPC by Stampman3000. All synthesis DSP is Audio Tools' AT20V (github.com/palmereta/audio_tools), unchanged; I only did the MPC port.",
+  "license": "AGPL-3.0-or-later"
+}

@@ -1,0 +1,1225 @@
+{
+  "width": 1280,
+  "height": 628,
+  "page1": {
+    "knobs": [
+      {
+        "param": 1,
+        "id": "vco1_wave",
+        "cx": 101,
+        "cy": 126,
+        "size": 76,
+        "strip": "knob_big_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 2,
+        "id": "vco1_pw",
+        "cx": 101,
+        "cy": 256,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 3,
+        "id": "vco1_scale",
+        "cx": 101,
+        "cy": 386,
+        "size": 76,
+        "strip": "knob_big_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 7,
+        "id": "portamento",
+        "cx": 101,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 4,
+        "id": "vco2_wave",
+        "cx": 279,
+        "cy": 126,
+        "size": 76,
+        "strip": "knob_big_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 5,
+        "id": "vco2_pitch",
+        "cx": 279,
+        "cy": 256,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": true
+      },
+      {
+        "param": 6,
+        "id": "vco2_scale",
+        "cx": 279,
+        "cy": 386,
+        "size": 76,
+        "strip": "knob_big_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 8,
+        "id": "master_tune",
+        "cx": 279,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": true
+      },
+      {
+        "param": 9,
+        "id": "vco1_level",
+        "cx": 446,
+        "cy": 126,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 10,
+        "id": "vco2_level",
+        "cx": 446,
+        "cy": 266,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 11,
+        "id": "fm_mg",
+        "cx": 446,
+        "cy": 434,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 12,
+        "id": "fm_eg1",
+        "cx": 446,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 13,
+        "id": "hpf_cutoff",
+        "cx": 605,
+        "cy": 126,
+        "size": 76,
+        "strip": "knob_big_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 14,
+        "id": "hpf_peak",
+        "cx": 605,
+        "cy": 266,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 15,
+        "id": "hpf_mod_mg",
+        "cx": 605,
+        "cy": 434,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 16,
+        "id": "hpf_mod_eg2",
+        "cx": 605,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 17,
+        "id": "lpf_cutoff",
+        "cx": 767,
+        "cy": 126,
+        "size": 76,
+        "strip": "knob_big_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 18,
+        "id": "lpf_peak",
+        "cx": 767,
+        "cy": 266,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 19,
+        "id": "lpf_mod_mg",
+        "cx": 767,
+        "cy": 434,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 20,
+        "id": "lpf_mod_eg2",
+        "cx": 767,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 0,
+        "id": "volume",
+        "cx": 1066,
+        "cy": 128,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 21,
+        "id": "mg_wave",
+        "cx": 916,
+        "cy": 434,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 22,
+        "id": "mg_freq",
+        "cx": 916,
+        "cy": 548,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 23,
+        "id": "eg1_delay",
+        "cx": 1053,
+        "cy": 326,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 24,
+        "id": "eg1_attack",
+        "cx": 1053,
+        "cy": 438,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 25,
+        "id": "eg1_release",
+        "cx": 1053,
+        "cy": 550,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 26,
+        "id": "eg2_hold",
+        "cx": 1195,
+        "cy": 110,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 27,
+        "id": "eg2_attack",
+        "cx": 1195,
+        "cy": 220,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 28,
+        "id": "eg2_decay",
+        "cx": 1195,
+        "cy": 330,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 29,
+        "id": "eg2_sustain",
+        "cx": 1195,
+        "cy": 440,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 30,
+        "id": "eg2_release",
+        "cx": 1195,
+        "cy": 550,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      }
+    ],
+    "leds": [
+      {
+        "param": 175,
+        "id": "led_mg",
+        "cx": 916,
+        "cy": 334,
+        "size": 20,
+        "strip": "led_2.png",
+        "frames": 2
+      },
+      {
+        "param": 176,
+        "id": "led_eg1",
+        "cx": 1100,
+        "cy": 264,
+        "size": 20,
+        "strip": "led_4.png",
+        "frames": 4
+      }
+    ],
+    "labels": [
+      {
+        "param": 180,
+        "id": "stat_preset",
+        "x": 862,
+        "y": 92,
+        "w": 142,
+        "h": 34,
+        "size": 16,
+        "color": "ffe8e6e0"
+      },
+      {
+        "param": 181,
+        "id": "stat_last",
+        "x": 862,
+        "y": 144,
+        "w": 142,
+        "h": 42,
+        "size": 17,
+        "color": "ffe0ac4a"
+      }
+    ]
+  },
+  "page2": {
+    "knobs": [
+      {
+        "param": 0,
+        "id": "volume",
+        "cx": 762,
+        "cy": 97,
+        "size": 64,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 31,
+        "id": "esp_level",
+        "cx": 93,
+        "cy": 552,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 32,
+        "id": "esp_lowcut",
+        "cx": 243,
+        "cy": 552,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 33,
+        "id": "esp_highcut",
+        "cx": 394,
+        "cy": 552,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 34,
+        "id": "esp_cvadj",
+        "cx": 544,
+        "cy": 552,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 35,
+        "id": "esp_thresh",
+        "cx": 695,
+        "cy": 552,
+        "size": 60,
+        "strip": "knob_med_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 169,
+        "id": "pedit_src",
+        "cx": 1066,
+        "cy": 314,
+        "size": 56,
+        "strip": "knob_ext_20way.png",
+        "frames": 20,
+        "bipolar": false
+      },
+      {
+        "param": 170,
+        "id": "pedit_dst",
+        "cx": 1198,
+        "cy": 314,
+        "size": 56,
+        "strip": "knob_ext_15way.png",
+        "frames": 15,
+        "bipolar": false
+      }
+    ],
+    "jacks": [
+      {
+        "jack": 0,
+        "id": "total_in",
+        "isOutput": false,
+        "cx": 58,
+        "cy": 131,
+        "size": 46,
+        "visParam": 99,
+        "tapParam": 134
+      },
+      {
+        "jack": 1,
+        "id": "freq_in",
+        "isOutput": false,
+        "cx": 184,
+        "cy": 131,
+        "size": 46,
+        "visParam": 100,
+        "tapParam": 135
+      },
+      {
+        "jack": 2,
+        "id": "ext_sig_in",
+        "isOutput": false,
+        "cx": 287,
+        "cy": 131,
+        "size": 46,
+        "visParam": 101,
+        "tapParam": 136
+      },
+      {
+        "jack": 3,
+        "id": "hpf_cut_in",
+        "isOutput": false,
+        "cx": 386,
+        "cy": 131,
+        "size": 46,
+        "visParam": 102,
+        "tapParam": 137
+      },
+      {
+        "jack": 4,
+        "id": "lpf_cut_in",
+        "isOutput": false,
+        "cx": 497,
+        "cy": 131,
+        "size": 46,
+        "visParam": 103,
+        "tapParam": 138
+      },
+      {
+        "jack": 5,
+        "id": "gain_in",
+        "isOutput": false,
+        "cx": 615,
+        "cy": 131,
+        "size": 46,
+        "visParam": 104,
+        "tapParam": 139
+      },
+      {
+        "jack": 6,
+        "id": "signal_out",
+        "isOutput": true,
+        "cx": 909,
+        "cy": 60,
+        "size": 46,
+        "visParam": 105,
+        "tapParam": 140
+      },
+      {
+        "jack": 7,
+        "id": "phones_out",
+        "isOutput": true,
+        "cx": 909,
+        "cy": 131,
+        "size": 46,
+        "visParam": 106,
+        "tapParam": 141
+      },
+      {
+        "jack": 8,
+        "id": "mg_tri_out",
+        "isOutput": true,
+        "cx": 58,
+        "cy": 224,
+        "size": 46,
+        "visParam": 107,
+        "tapParam": 142
+      },
+      {
+        "jack": 9,
+        "id": "mg_sq_out",
+        "isOutput": true,
+        "cx": 233,
+        "cy": 224,
+        "size": 46,
+        "visParam": 108,
+        "tapParam": 143
+      },
+      {
+        "jack": 10,
+        "id": "eg1_out",
+        "isOutput": true,
+        "cx": 319,
+        "cy": 224,
+        "size": 46,
+        "visParam": 109,
+        "tapParam": 144
+      },
+      {
+        "jack": 11,
+        "id": "eg2_rev_out",
+        "isOutput": true,
+        "cx": 663,
+        "cy": 224,
+        "size": 46,
+        "visParam": 110,
+        "tapParam": 145
+      },
+      {
+        "jack": 12,
+        "id": "vco2_cv_in",
+        "isOutput": false,
+        "cx": 735,
+        "cy": 260,
+        "size": 46,
+        "visParam": 111,
+        "tapParam": 146
+      },
+      {
+        "jack": 13,
+        "id": "vco12_cv_in",
+        "isOutput": false,
+        "cx": 821,
+        "cy": 224,
+        "size": 46,
+        "visParam": 112,
+        "tapParam": 147
+      },
+      {
+        "jack": 14,
+        "id": "kbd_cv_out",
+        "isOutput": true,
+        "cx": 908,
+        "cy": 224,
+        "size": 46,
+        "visParam": 113,
+        "tapParam": 148
+      },
+      {
+        "jack": 15,
+        "id": "sh_clock_in",
+        "isOutput": false,
+        "cx": 145,
+        "cy": 296,
+        "size": 46,
+        "visParam": 114,
+        "tapParam": 149
+      },
+      {
+        "jack": 16,
+        "id": "eg1_rev_out",
+        "isOutput": true,
+        "cx": 319,
+        "cy": 296,
+        "size": 46,
+        "visParam": 115,
+        "tapParam": 150
+      },
+      {
+        "jack": 17,
+        "id": "vca_ctrl_in",
+        "isOutput": false,
+        "cx": 407,
+        "cy": 296,
+        "size": 46,
+        "visParam": 116,
+        "tapParam": 151
+      },
+      {
+        "jack": 18,
+        "id": "eg1_trig_in",
+        "isOutput": false,
+        "cx": 546,
+        "cy": 296,
+        "size": 46,
+        "visParam": 117,
+        "tapParam": 152
+      },
+      {
+        "jack": 19,
+        "id": "kbd_trig_in",
+        "isOutput": false,
+        "cx": 821,
+        "cy": 296,
+        "size": 46,
+        "visParam": 118,
+        "tapParam": 153
+      },
+      {
+        "jack": 20,
+        "id": "kbd_trig_out",
+        "isOutput": true,
+        "cx": 908,
+        "cy": 296,
+        "size": 46,
+        "visParam": 119,
+        "tapParam": 154
+      },
+      {
+        "jack": 21,
+        "id": "sh_in",
+        "isOutput": false,
+        "cx": 58,
+        "cy": 367,
+        "size": 46,
+        "visParam": 120,
+        "tapParam": 155
+      },
+      {
+        "jack": 22,
+        "id": "sh_out",
+        "isOutput": true,
+        "cx": 232,
+        "cy": 367,
+        "size": 46,
+        "visParam": 121,
+        "tapParam": 156
+      },
+      {
+        "jack": 23,
+        "id": "vca_in",
+        "isOutput": false,
+        "cx": 318,
+        "cy": 367,
+        "size": 46,
+        "visParam": 122,
+        "tapParam": 157
+      },
+      {
+        "jack": 24,
+        "id": "vca_out",
+        "isOutput": true,
+        "cx": 456,
+        "cy": 367,
+        "size": 46,
+        "visParam": 123,
+        "tapParam": 158
+      },
+      {
+        "jack": 25,
+        "id": "pink_out",
+        "isOutput": true,
+        "cx": 546,
+        "cy": 368,
+        "size": 46,
+        "visParam": 124,
+        "tapParam": 159
+      },
+      {
+        "jack": 26,
+        "id": "white_out",
+        "isOutput": true,
+        "cx": 721,
+        "cy": 368,
+        "size": 46,
+        "visParam": 125,
+        "tapParam": 160
+      },
+      {
+        "jack": 27,
+        "id": "wheel_out",
+        "isOutput": true,
+        "cx": 818,
+        "cy": 368,
+        "size": 46,
+        "visParam": 126,
+        "tapParam": 161
+      },
+      {
+        "jack": 28,
+        "id": "msw_out",
+        "isOutput": true,
+        "cx": 906,
+        "cy": 368,
+        "size": 46,
+        "visParam": 127,
+        "tapParam": 162
+      },
+      {
+        "jack": 29,
+        "id": "esp_in",
+        "isOutput": false,
+        "cx": 56,
+        "cy": 466,
+        "size": 46,
+        "visParam": 128,
+        "tapParam": 163
+      },
+      {
+        "jack": 30,
+        "id": "esp_amp_out",
+        "isOutput": true,
+        "cx": 232,
+        "cy": 466,
+        "size": 46,
+        "visParam": 129,
+        "tapParam": 164
+      },
+      {
+        "jack": 31,
+        "id": "esp_bpf_out",
+        "isOutput": true,
+        "cx": 408,
+        "cy": 466,
+        "size": 46,
+        "visParam": 130,
+        "tapParam": 165
+      },
+      {
+        "jack": 32,
+        "id": "esp_fv_out",
+        "isOutput": true,
+        "cx": 586,
+        "cy": 466,
+        "size": 46,
+        "visParam": 131,
+        "tapParam": 166
+      },
+      {
+        "jack": 33,
+        "id": "esp_env_out",
+        "isOutput": true,
+        "cx": 818,
+        "cy": 466,
+        "size": 46,
+        "visParam": 132,
+        "tapParam": 167
+      },
+      {
+        "jack": 34,
+        "id": "esp_trig_out",
+        "isOutput": true,
+        "cx": 905,
+        "cy": 466,
+        "size": 46,
+        "visParam": 133,
+        "tapParam": 168
+      }
+    ],
+    "leds": [
+      {
+        "param": 177,
+        "id": "led_esp_peak",
+        "cx": 703,
+        "cy": 422,
+        "size": 20,
+        "strip": "led_2.png",
+        "frames": 2
+      },
+      {
+        "param": 178,
+        "id": "led_esp_trig",
+        "cx": 905,
+        "cy": 422,
+        "size": 20,
+        "strip": "led_2.png",
+        "frames": 2
+      }
+    ],
+    "buttons": [
+      {
+        "param": 171,
+        "id": "pact_conn",
+        "x": 1008,
+        "y": 144,
+        "w": 118,
+        "h": 38,
+        "on": "btn_conn_on.png",
+        "off": "btn_conn_off.png"
+      },
+      {
+        "param": 172,
+        "id": "pact_disc",
+        "x": 1138,
+        "y": 144,
+        "w": 118,
+        "h": 38,
+        "on": "btn_disc_on.png",
+        "off": "btn_disc_off.png"
+      },
+      {
+        "param": 173,
+        "id": "pact_clear",
+        "x": 1008,
+        "y": 188,
+        "w": 248,
+        "h": 36,
+        "on": "btn_clear_on.png",
+        "off": "btn_clear_off.png"
+      },
+      {
+        "param": 68,
+        "id": "momentary",
+        "x": 1146,
+        "y": 476,
+        "w": 104,
+        "h": 88,
+        "on": "btn_msw_on.png",
+        "off": "btn_msw_off.png"
+      }
+    ],
+    "wheel": {
+      "param": 67,
+      "id": "wheel",
+      "x": 1028,
+      "y": 448,
+      "w": 76,
+      "h": 146,
+      "strip": "wheel_strip.png",
+      "frames": 33
+    },
+    "labels": [
+      {
+        "param": 174,
+        "id": "pstat_text",
+        "x": 1010,
+        "y": 52,
+        "w": 244,
+        "h": 36,
+        "size": 22,
+        "color": "ffe0ac4a"
+      },
+      {
+        "param": 169,
+        "id": "pedit_src_v",
+        "x": 1010,
+        "y": 354,
+        "w": 112,
+        "h": 26,
+        "size": 19,
+        "color": "ffe8e6e0"
+      },
+      {
+        "param": 170,
+        "id": "pedit_dst_v",
+        "x": 1142,
+        "y": 354,
+        "w": 112,
+        "h": 26,
+        "size": 19,
+        "color": "ffe8e6e0"
+      }
+    ]
+  },
+  "page3": {
+    "knobs": [
+      {
+        "param": 36,
+        "id": "voices",
+        "cx": 72,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_6way.png",
+        "frames": 6,
+        "bipolar": false
+      },
+      {
+        "param": 37,
+        "id": "unison",
+        "cx": 180,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 38,
+        "id": "detune",
+        "cx": 72,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 39,
+        "id": "spread",
+        "cx": 180,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 40,
+        "id": "priority",
+        "cx": 72,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_ext_3way.png",
+        "frames": 3,
+        "bipolar": false
+      },
+      {
+        "param": 41,
+        "id": "retrigger",
+        "cx": 180,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 42,
+        "id": "filter_rev",
+        "cx": 294,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 43,
+        "id": "analog",
+        "cx": 394,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 44,
+        "id": "mg_sync",
+        "cx": 494,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 46,
+        "id": "quality",
+        "cx": 294,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_ext_3way.png",
+        "frames": 3,
+        "bipolar": false
+      },
+      {
+        "param": 45,
+        "id": "bend_range",
+        "cx": 394,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_ext_13way.png",
+        "frames": 13,
+        "bipolar": false
+      },
+      {
+        "param": 47,
+        "id": "output",
+        "cx": 494,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 48,
+        "id": "ext_source",
+        "cx": 294,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_ext_3way.png",
+        "frames": 3,
+        "bipolar": false
+      },
+      {
+        "param": 58,
+        "id": "dly_on",
+        "cx": 610,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 59,
+        "id": "dly_time",
+        "cx": 710,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_12way.png",
+        "frames": 12,
+        "bipolar": false
+      },
+      {
+        "param": 60,
+        "id": "dly_fb",
+        "cx": 610,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 61,
+        "id": "dly_tone",
+        "cx": 710,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 62,
+        "id": "dly_mix",
+        "cx": 660,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 63,
+        "id": "rev_on",
+        "cx": 818,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 64,
+        "id": "rev_size",
+        "cx": 918,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 65,
+        "id": "rev_damp",
+        "cx": 818,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 66,
+        "id": "rev_mix",
+        "cx": 918,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 49,
+        "id": "voc_on",
+        "cx": 1024,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_2way.png",
+        "frames": 2,
+        "bipolar": false
+      },
+      {
+        "param": 50,
+        "id": "voc_bands",
+        "cx": 1121,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_ext_4way.png",
+        "frames": 4,
+        "bipolar": false
+      },
+      {
+        "param": 51,
+        "id": "voc_gain",
+        "cx": 1218,
+        "cy": 148,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 52,
+        "id": "voc_shift",
+        "cx": 1024,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": true
+      },
+      {
+        "param": 53,
+        "id": "voc_q",
+        "cx": 1121,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 56,
+        "id": "voc_hiss",
+        "cx": 1218,
+        "cy": 336,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 54,
+        "id": "voc_attack",
+        "cx": 1024,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 55,
+        "id": "voc_release",
+        "cx": 1121,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      },
+      {
+        "param": 57,
+        "id": "voc_mix",
+        "cx": 1218,
+        "cy": 520,
+        "size": 62,
+        "strip": "knob_small_pot.png",
+        "frames": 65,
+        "bipolar": false
+      }
+    ],
+    "leds": [
+      {
+        "param": 179,
+        "id": "led_voc_sig",
+        "cx": 1244,
+        "cy": 34,
+        "size": 20,
+        "strip": "led_2.png",
+        "frames": 2
+      }
+    ]
+  }
+}

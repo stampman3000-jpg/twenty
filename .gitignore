@@ -1,0 +1,11 @@
+dist/
+build/
+build_tests/
+*.zip
+*.so
+*.dylib
+*.o
+*.a
+*.wav
+*.png
+.DS_Store

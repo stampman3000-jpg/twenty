@@ -8,4 +8,5 @@ build_tests/
 *.a
 *.wav
 *.png
+!screenshots/*.png
 .DS_Store

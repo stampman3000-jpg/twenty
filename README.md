@@ -1,5 +1,11 @@
 # Twenty & Twenty FX
 
+[![MPC Plugins](https://mpcplugins.github.io/badge/twenty.svg)](https://thediskking.com/plugins/twenty/)
+[![MPC Plugins](https://mpcplugins.github.io/badge/twenty-fx.svg)](https://thediskking.com/plugins/twenty-fx/)
+
+![Twenty](screenshots/twenty.png)
+![Twenty FX](screenshots/twenty-fx.png)
+
 Ported to MPC by Stampman3000. All synthesis DSP is Audio Tools' AT20V (github.com/palmereta/audio_tools), unchanged; I only did the MPC port.
 
 A standalone Akai MPC adaptation by **Stampman3000** of **Audio Tools AT20V** (`palmereta/audio_tools`), the open-source Korg MS-20 semi-modular synthesis recreation, built on the official Akai MPC Plugin Builder SDK.
